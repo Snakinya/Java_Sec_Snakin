@@ -14,3 +14,8 @@
 - [RMI基础](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x00%20%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/RMI%E5%9F%BA%E7%A1%80.md)
 - [JNDI注入基础](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x00%20%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/JNDI%E6%B3%A8%E5%85%A5%E5%9F%BA%E7%A1%80.md)
 - [JNDI高版本绕过](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x00%20%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/JNDI%E9%AB%98%E7%89%88%E6%9C%AC%E7%BB%95%E8%BF%87.md)
+
+## 0x01 反序列化
+- [01 URLDNS](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x01%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/01%20URLDNS.md)
+- [02 CommonsCollections_前置](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x01%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/02%20CommonsCollections_%E5%89%8D%E7%BD%AE.md)
+- [03 CommonsCollections_1(上)](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x01%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/03%20CommonsCollections_1(%E4%B8%8A).md)
