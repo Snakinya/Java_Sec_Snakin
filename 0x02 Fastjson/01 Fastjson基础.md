@@ -13,7 +13,7 @@ maven仓库下载
 
 ### Fastjson反序列化的类方法调用关系
 
-![img](https://cosmoslin.oss-cn-chengdu.aliyuncs.com/img2/1616458393831.png)
+![img1](https://cosmoslin.oss-cn-chengdu.aliyuncs.com/img2/1616458393831.png)
 
 JSON：门面类，提供入口 
 
