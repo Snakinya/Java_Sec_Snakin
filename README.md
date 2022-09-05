@@ -28,3 +28,6 @@
 - [10 CommonsCollections_6_HashSet](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x01%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/10%20CommonsCollections_6_HashSet.md)
 - [11 CommonsCollections_7](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x01%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/11%20CommonsCollections_7.md)
 - [12 CC链学习总结](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x01%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/12%20CC%E9%93%BE%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
+- [ROME1.0反序列化](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x01%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/ROME1.0%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
+## 0x02 Fastjson
+- [01 Fastjson基础](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/01%20Fastjson%E5%9F%BA%E7%A1%80.md)
