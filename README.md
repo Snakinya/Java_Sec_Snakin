@@ -29,5 +29,9 @@
 - [11 CommonsCollections_7](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x01%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/11%20CommonsCollections_7.md)
 - [12 CC链学习总结](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x01%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/12%20CC%E9%93%BE%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
 - [ROME1.0反序列化](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x01%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/ROME1.0%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
+- [Snakeyaml反序列化](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x01%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/Snakeyaml%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
 ## 0x02 Fastjson
 - [01 Fastjson基础](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/01%20Fastjson%E5%9F%BA%E7%A1%80.md)
+- [02 Fastjson反序列化漏洞原理](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/02%20Fastjson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%8E%9F%E7%90%86.md)
+- [03 FastJason 1.2.22-1.2.24 TemplatesImpl利用链分析.md](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/03%20FastJason%201.2.22-1.2.24%20TemplatesImpl%E5%88%A9%E7%94%A8%E9%93%BE%E5%88%86%E6%9E%90.md)
+- [04 FastJason 1.2.22-1.2.24 JdbcRowSetImpl利用链分析](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/04%20FastJason%201.2.22-1.2.24%20JdbcRowSetImpl%E5%88%A9%E7%94%A8%E9%93%BE%E5%88%86%E6%9E%90.md)
