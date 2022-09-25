@@ -35,3 +35,4 @@
 - [02 Fastjson反序列化漏洞原理](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/02%20Fastjson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%8E%9F%E7%90%86.md)
 - [03 FastJason 1.2.22-1.2.24 TemplatesImpl利用链分析.md](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/03%20FastJason%201.2.22-1.2.24%20TemplatesImpl%E5%88%A9%E7%94%A8%E9%93%BE%E5%88%86%E6%9E%90.md)
 - [04 FastJason 1.2.22-1.2.24 JdbcRowSetImpl利用链分析](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/04%20FastJason%201.2.22-1.2.24%20JdbcRowSetImpl%E5%88%A9%E7%94%A8%E9%93%BE%E5%88%86%E6%9E%90.md)
+- [05 Fastjson 1.2.25-1.2.48 补丁绕过分析](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/05%20Fastjson%201.2.25-1.2.48%20%E8%A1%A5%E4%B8%81%E7%BB%95%E8%BF%87%E5%88%86%E6%9E%90.md)
