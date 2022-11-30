@@ -36,3 +36,6 @@
 - [03 FastJason 1.2.22-1.2.24 TemplatesImpl利用链分析.md](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/03%20FastJason%201.2.22-1.2.24%20TemplatesImpl%E5%88%A9%E7%94%A8%E9%93%BE%E5%88%86%E6%9E%90.md)
 - [04 FastJason 1.2.22-1.2.24 JdbcRowSetImpl利用链分析](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/04%20FastJason%201.2.22-1.2.24%20JdbcRowSetImpl%E5%88%A9%E7%94%A8%E9%93%BE%E5%88%86%E6%9E%90.md)
 - [05 Fastjson 1.2.25-1.2.48 补丁绕过分析](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x02%20Fastjson/05%20Fastjson%201.2.25-1.2.48%20%E8%A1%A5%E4%B8%81%E7%BB%95%E8%BF%87%E5%88%86%E6%9E%90.md)
+
+## 0x03 内存马
+[00 内存马基础](https://github.com/Snakinya/Java_Sec_Snakin/blob/main/0x03%20%E5%86%85%E5%AD%98%E9%A9%AC/00%20%E5%86%85%E5%AD%98%E9%A9%AC%E5%9F%BA%E7%A1%80.md)
